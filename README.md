@@ -13,3 +13,13 @@ School: HSTAT
 6. Spanish  
 7. Lunch  
 8. Software Engineering  
+
+```
+#####_**My Habits**_  
+* Listen to music  
+ * Such as Classic music  
+* Going to the park  
+ * My favorite park is the Central Park  
+* Using the computer  
+ * Favorite website is youtube  
+ 
