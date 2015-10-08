@@ -23,3 +23,7 @@ School: HSTAT
 * Using the computer  
  * Favorite website is youtube  
  
+ ```
+ _Feel free to look at my site_:  
+ [Mei Ting Ieong's Google Site](https://sites.google.com/a/hstat.org/meitingi2005sep11/about-me)
+ 
