@@ -3,6 +3,7 @@ Name: Mei Ting Ieong
 Bio: My name is Mei Ting and I'm currently a 11th grader in HSTAT. I have been in Software Engineering Program for 2 years.  
 Email: meitingi2005@hstat.org  
 School: HSTAT  
+
 ---
 #####_**My schedule**_  
 ```
@@ -16,6 +17,7 @@ School: HSTAT
 8. Software Engineering  
 
 ```
+
 ---
 #####_**My Habits**_  
 * Listen to music  
